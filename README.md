@@ -26,16 +26,16 @@ The Max Temperature vs. Latitude plot for cities in the Southern hemisphere is s
 with an r-value of  for the linear best-fit regression line.
 The higher the latitude degree higher the max temprature and vice versa
 It has positive coefficient indicates there is positive linear relationship
-  ![image](./image6.png)
-  ![image](./image7.png)
+  ![image](./output_data/image6.png)
+  ![image](./output_data/image7.png)
 
 The Max Humidity vs. Latitude plot for cities in the northern hemisphere is shown above. 
 The max Humidity appears show a strong positive linear relationship with latitudes in the northern and southern hemisphere, 
 with an r-value of   or the linear best-fit regression line.
 The higher the Humidity and higher the latitude degree for northern and sothern hemispere
 It has positive coefficient indicates there is positive linear relationship
-  ![image](./image.png)
-  ![image](./image1.png)
+  ![image](./output_data/image.png)
+  ![image](./output_data/image1.png)
 
 The Max cloudiness vs. Latitude plot for cities in the northern hemisphere is shown above. 
 The max clousiness appears show a strong positive linear relationship with latitudes in the northern and southern hemisphere, 
@@ -43,8 +43,8 @@ with an r-value of   or the linear best-fit regression line.
 The higher the latitude degree the higher the cloudiness in northern and sothern hemispere 
 and lower the latitude degree lower the cloudiness in northern and sothern hemispere 
 It has positive coefficient indicates there is positive linear relationship
-  ![image](./image2.png)
-  ![image](./image3.png)
+  ![image](./output_data/image2.png)
+  ![image](./output_data/image3.png)
 The wind speed vs. Latitude plot for cities in the northern hemisphere is shown above. 
 The higher or the lower the latitude the cloudiness remain constant in the northern hemisphere, 
 with an r-value of -0.62 for the linear best-fit regression line.
@@ -61,5 +61,5 @@ there is no impact on wind speed with higher or lower the latitude degree.
 The wind speed vs. Latitude plot for cities in the southern hemisphere is shown above. 
 The higher the latitude degree lower the wind speed the impact on wind speed with the change in latitude degree is very low
 The negative value of slope indicates the inverse relationship between latitude and wind speed.
-  ![image](./image4.png)
-  ![image](./image5.png)
+  ![image](./output_data/image4.png)
+  ![image](./output_data/image5.png)
